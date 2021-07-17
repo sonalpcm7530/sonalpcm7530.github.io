@@ -1,2 +1,3 @@
-var x="4";
+var x;
+x=578;
 console. log(x);
